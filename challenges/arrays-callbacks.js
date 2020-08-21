@@ -106,3 +106,7 @@ Stretch: If you haven't already, convert your array method callbacks into arrow 
 
 */
 
+const add = (numb1, numb2) => numb1 + numb2;
+const multiply = (numb1, numb2) => numb1 + numb2;
+const greeting = (firstName,lastName) => `Hello ${firstName} ${lastName}, nice to meet you!`;
+
